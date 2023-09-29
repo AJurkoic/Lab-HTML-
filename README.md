@@ -1,5 +1,4 @@
 # Lab-HTML
-<! DOCTYPE html> == $0
 <html lang="en">
 <head>
   <title>HTML Practice</title>
@@ -10,10 +9,10 @@
 <p>-- Steve Jobs</i></p>
   <hr>
   <h1>2.</h1>
-   <!-- Your solution to #2 here -->
+   <p>&alt;!--</p>
   <hr>
   <h1>3.</h1>
-  <!-- Your solution to #3 here -->
+  &alt;Nice!&alt;
   <hr>
   <h1>4.</h1>
   <!-- Your solution to #4 here -->
