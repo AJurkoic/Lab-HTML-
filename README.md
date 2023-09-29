@@ -22,11 +22,13 @@
   <hr>
   <h1>6.</h1>
   <ul>
-    <ol>Desktop</ol>
+    <ol>Desktop
+    </ol>
     <li>Linux</li>
     <li>Mac OS</li>
     <li>Windows</li>
-    <ol>Mobile</ol>
+    <ol>Mobile
+    </ol>
     <li>Android</li>
     <li>iOS</li>
   </ul>
