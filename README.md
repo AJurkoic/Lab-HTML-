@@ -12,7 +12,7 @@
    <p>&lt;!--</p>
   <hr>
   <h1>3.</h1>
-  &alt;Nice!&gt;
+  &lt;Nice!&gt;
   <hr>
   <h1>4.</h1>
   <!-- Your solution to #4 here -->
