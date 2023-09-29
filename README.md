@@ -21,22 +21,22 @@
   <a href=https://www.zybooks.com/><img src="zyBooks_logo.png">
   <hr>
   <h1>6.</h1>
-  <ul>
+  <ol>
       <li>Desktop
-    <ul>
+    <ol>
     <li>Linux</li>
     <li>Mac OS</li>
     <li>Windows</li>
-    </ul>
+    </ol>
       </li>
-    <ul>
+    <ol>
       <li>Mobile
-    </ul>
+    </ol>
     <li>Android</li>
     <li>iOS</li>
-  </ul>
+  </ol>
   </li>
-  </ul>
+  </ol>
   <hr>
   <h1>7.</h1>
    <!-- Your solution to #7 here -->
