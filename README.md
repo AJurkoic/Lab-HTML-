@@ -18,7 +18,7 @@
   <!-- Your solution to #4 here -->
   <hr>
   <h1>5.</h1>
-  <a href="zybooks_logo.png">
+  <a href=https://www.zybooks.com/><img src="zybooks_logo.png">
   <hr>
   <h1>6.</h1>
   <!-- Your solution to #6 here -->
