@@ -9,10 +9,10 @@
 <p>-- Steve Jobs</i></p>
   <hr>
   <h1>2.</h1>
-   <p>&alt;!--</p>
+   <p>&lt;!--</p>
   <hr>
   <h1>3.</h1>
-  &alt;Nice!&alt;
+  &alt;Nice!&gt;
   <hr>
   <h1>4.</h1>
   <!-- Your solution to #4 here -->
