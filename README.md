@@ -22,8 +22,9 @@
   <hr>
   <h1>6.</h1>
   <ul>
-    <ol>Desktop
-    </ol>
+    <ol>
+      <li>Desktop
+      </li></ol>
     <li>Linux</li>
     <li>Mac OS</li>
     <li>Windows</li>
