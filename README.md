@@ -39,7 +39,10 @@
   </ul>
   <hr>
   <h1>7.</h1>
-   <!-- Your solution to #7 here -->
+   <table>
+     <tr>
+       1
+     </tr>
 <hr>
 </body>
 </html>
