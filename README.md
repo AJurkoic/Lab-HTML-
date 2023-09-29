@@ -21,7 +21,15 @@
   <a href=https://www.zybooks.com/><img src="zyBooks_logo.png">
   <hr>
   <h1>6.</h1>
-  <!-- Your solution to #6 here -->
+  <ul>
+    <ol>Desktop</ol>
+    <li>Linux</li>
+    <li>Mac OS</li>
+    <li>Windows</li>
+    <ol>Mobile</ol>
+    <li>Android</li>
+    <li>iOS</li>
+  </ul>
   <hr>
   <h1>7.</h1>
    <!-- Your solution to #7 here -->
