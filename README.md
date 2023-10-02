@@ -53,6 +53,7 @@
      <tr>
      <th>
        <h1>1</h1>
+       <td>colspan="3"</td>
      </th>
      </tr>
      <tr>
