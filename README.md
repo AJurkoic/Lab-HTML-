@@ -15,7 +15,13 @@
   &lt;Nice!&gt;
   <hr>
   <h1>4.</h1>
-  <ol type="1">
+ <a> href=  </a>
+  <hr>
+  <h1>5.</h1>
+  <a href=https://www.zybooks.com/><img src="zyBooks_logo.png">
+  <hr>
+  <h1>6.</h1>
+<ol type="1">
     <li>Desktop</li>
     <ul>
       <li>Linux</li>
@@ -26,26 +32,6 @@
     <ul>
       <li>Android</li>
       <li>iOS</li>
-    </ul>
-  <hr>
-  <h1>5.</h1>
-  <a href=https://www.zybooks.com/><img src="zyBooks_logo.png">
-  <hr>
-  <h1>6.</h1>
-    <ul>
-    <li>Desktop
-    <ul>
-    <li>Linux</li>
-    <li>Mac OS</li>
-    <li>Windows</li> 
-    </ul>
-    </li>
-    <li>Mobile
-      <ul>
-    <li>Android</li>
-    <li>iOS</li>
-      </ul>
-      </li>
     </ul>
   <hr>
   <h1>7.</h1>
