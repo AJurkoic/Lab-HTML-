@@ -39,24 +39,16 @@
   <h1>7.</h1>
    <table>
      <tr>
-     <th>
-       <h1>1</h1>
-       <td>colspan="3"</td>
-     </th>
+     <th><h1>1</h1> <td>colspan="3"</td></th>
+     </tr>
+     <tr>
+       <th>
+         <h1>3</h1> <h1>4</h1>
+       </th>
      </tr>
      <tr>
        <th>
          <h1>2</h1>
-       </th>
-     </tr>
-     <tr>
-       <th>
-         <h1>3</h1>
-       </th>
-     </tr>
-     <tr>
-       <th>
-         <h1>4</h1>
        </th>
      </tr>
      <tr>
