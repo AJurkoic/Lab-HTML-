@@ -32,22 +32,19 @@
   <a href=https://www.zybooks.com/><img src="zyBooks_logo.png">
   <hr>
   <h1>6.</h1>
-  <ul>
+   <ol>
       <li>Desktop
     <ul>
     <li>Linux</li>
     <li>Mac OS</li>
     <li>Windows</li>
-    </ul>
+    </ol>
       </li>
-    <ul>
+    <ol>
       <li>Mobile
-    </ul>
+    </ol>
     <li>Android</li>
     <li>iOS</li>
-  </ul>
-  </li>
-  </ul>
   <hr>
   <h1>7.</h1>
    <table>
