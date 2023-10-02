@@ -9,7 +9,7 @@
 <p>-- Steve Jobs</i></p>
   <hr>
   <h1>2.</h1>
-   <p>&lt;!--</p> & <p>&gt;--</p>
+   <p>&lt;!--</p> & &gt;--
   <hr>
   <h1>3.</h1>
   &lt;Nice!&gt;
