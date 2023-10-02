@@ -33,18 +33,20 @@
   <hr>
   <h1>6.</h1>
    <ol>
-      <li>Desktop
+      Desktop
+   </ol>
     <ul>
     <li>Linux</li>
     <li>Mac OS</li>
     <li>Windows</li>
-    </ol>
-      </li>
+    </ul>
     <ol>
-      <li>Mobile
+      Mobile
     </ol>
+    <ul>
     <li>Android</li>
     <li>iOS</li>
+    </ul>
   <hr>
   <h1>7.</h1>
    <table>
