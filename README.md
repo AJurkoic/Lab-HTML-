@@ -1,38 +1,68 @@
-<h1>Jabberwocky</h1>
+# Lab-HTML
+<html lang="en">
+<head>
+  <title>HTML Practice</title>
+</head>
+<body>
+  <h1>1.</h1>
+  <p><i>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.</p>
+<p>-- Steve Jobs</i></p>
+  <hr>
+  <h1>2.</h1>
+   <p>&lt;!--</p> & &gt;--
+  <hr>
+  <h1>3.</h1>
+  &lt;Nice!&gt;
+  <hr>
+  <h1>4.
+    <a href= "https://github.com/AJurkoic/Lab-HTML-">
+      Go to my stuff
+  </h1>
+  <hr>
+  <h1>5.</h1>
+  <a href=https://www.zybooks.com/><img src="zyBooks_logo.png">
+  <hr>
+  <h1>6.</h1>
+<ol type="1">
+    <li>Desktop</li>
+    <ul>
+      <li>Linux</li>
+      <li>Mac OS</li>
+      <li>Windows</li>
+    </ul>
+    <li>Mobile</li>
+    <ul>
+      <li>Android</li>
+      <li>iOS</li>
+    </ul>
+  <hr>
+  <h1>7.</h1>
+   <table>
+     <tr>
+     <td>
+       <h1>1</h1> <tdcolspan="3"></td>
+   </td>
+     </tr>
+     <tr>
+       <td><h1>3</h1><h1>4</h1></td>
+     </tr>
+     <tr>
+       <td>
+         <h1>2</h1>
+         <td rowspan="2"></td>
+       </td>
+     </tr>
+     <tr>
+       <td>
+         <h1>5</h1>
+       </td>
+     </tr>
+     <tr>
+       <td>
+         <h1>6</h1>
+       </td>
+     </tr>
 
-<p>Twas brillig, and the slithy toves<br>
-Did gyre and gimble in the wabe:<br>
-All mimsy were the borogoves,<br>
-And the mome raths outgrabe.</p>
-
-<p>Beware the Jabberwock, my son!<br>
-The jaws that bite, the claws that catch!<br>
-Beware the Jubjub bird, and shun<br>
-The frumious Bandersnatch!</p>
-
-<p>He took his vorpal sword in hand:<br>
-Long time the manxome foe he sought<br>
-So rested he by the Tumtum tree,<br>
-And stood a while in thought.</p>
-
-<p>And, as in uffish thought he stood,<br>
-The Jabberwock, with eyes of flame,<br>
-Came whiffling through the tulgey wood,<br>
-And burbled as it came!</p>
-
-<p>One two! One two! And through and through<br>
-The vorpal blade went snicker-snack!<br>
-He left it dead, and with its head<br>
-He went galumphing back.</p>
-
-<p>And hast thou slain the Jabberwock?<br>
-Come to my arms, my beamish boy!<br>
-Oh frabjous day! Callooh! Callay!<br>
-He chortled in his joy.</p>
-
-<p>'Twas brillig, and the slithy toves<br>
-Did gyre and gimble in the wabe:<br>
-All mimsy were the borogoves,<br>
-And the mome raths outgrabe.</p>
-
-<h3><em>By Lewis Carroll (1871)</em></h3>
+<hr>
+</body>
+</html>
