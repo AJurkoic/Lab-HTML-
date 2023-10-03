@@ -44,25 +44,25 @@
    </th>
      </tr>
      <tr>
-       <th>
+       <td>
          <h1>3</h1> <h1>4</h1>
-       </th>
+       </td>
      </tr>
      <tr>
-       <th>
+       <td>
          <h1>2</h1>
          <td rowspan="2"></td>
-       </th>
+       </td>
      </tr>
      <tr>
-       <th>
+       <td>
          <h1>5</h1>
-       </th>
+       </td>
      </tr>
      <tr>
-       <th>
+       <td>
          <h1>6</h1>
-       </th>
+       </td>
      </tr>
      
 <hr>
