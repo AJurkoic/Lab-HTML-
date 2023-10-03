@@ -39,9 +39,9 @@
   <h1>7.</h1>
    <table>
      <tr>
-     <th>
+     <td>
        <h1>1</h1> <tdcolspan="3"></td>
-   </th>
+   </td>
      </tr>
      <tr>
        <td>
